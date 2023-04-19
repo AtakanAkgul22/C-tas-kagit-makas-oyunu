@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1641750845 source:c:\users\atkn_\desktop\codeblocks çalýþma\taskagýtmakas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
